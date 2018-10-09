@@ -7,6 +7,14 @@
 kafka-docker
 ============
 
+#Start Kafka Shell
+```
+cd ~/kafka-docker/
+docker-compose up -d
+```
+
+============
+
 Dockerfile for [Apache Kafka](http://kafka.apache.org/)
 
 The image is available directly from [Docker Hub](https://hub.docker.com/r/wurstmeister/kafka/)
